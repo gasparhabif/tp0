@@ -1,0 +1,8 @@
+[INFO] 22:10:07:598 Servidor/(7036:7036): Servidor listo para recibir al cliente
+[INFO] 22:32:48:893 Servidor/(7036:7036): Se conecto un cliente!
+[INFO] 22:32:48:893 Servidor/(7036:7036): Me llego el mensaje Hola, soy un valor
+[ERROR] 22:32:49:997 Servidor/(7036:7036): el cliente se desconecto. Terminando servidor
+[INFO] 22:33:31:531 Servidor/(9161:9161): Servidor listo para recibir al cliente
+[INFO] 22:33:42:174 Servidor/(9161:9161): Se conecto un cliente!
+[INFO] 22:33:42:174 Servidor/(9161:9161): Me llego el mensaje Hola, soy un valor
+[ERROR] 22:33:51:016 Servidor/(9161:9161): el cliente se desconecto. Terminando servidor
